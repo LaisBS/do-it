@@ -1,4 +1,4 @@
-# Veja ess projeto funcionando!
+# Veja esse projeto funcionando!
 
 https://do-it-laisbs.vercel.app/
 
